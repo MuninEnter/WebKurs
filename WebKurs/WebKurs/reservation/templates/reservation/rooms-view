@@ -1,0 +1,6 @@
+{% extends 'main/layout.html' %}
+
+{% block title %}Удаление статьи{% endblock %}}
+{% block content %}
+
+{% endblock %}
